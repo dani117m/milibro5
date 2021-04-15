@@ -2,6 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
+- file: materiasAP
+- file: materiasNP
 - file: content
   sections:
     - file: markdown
