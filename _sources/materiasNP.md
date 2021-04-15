@@ -1,4 +1,4 @@
-**Materias Reprobadas** 
+Materias Reprobadas
 ============================
 
 *7-Ciclo*
